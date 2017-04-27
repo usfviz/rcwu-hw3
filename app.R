@@ -1,7 +1,4 @@
 # devtools::install_github("ggobi/ggally")
-# rm(list = ls())
-# cat('\014')
-
 library(tidyr)
 library(dplyr)
 library(ggplot2)
